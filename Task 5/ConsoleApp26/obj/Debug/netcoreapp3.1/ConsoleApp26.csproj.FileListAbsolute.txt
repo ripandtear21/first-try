@@ -11,3 +11,16 @@ C:\Users\norma\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\Co
 C:\Users\norma\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.dll
 C:\Users\norma\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.pdb
 C:\Users\norma\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.genruntimeconfig.cache
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csprojAssemblyReference.cache
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfo.cs
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.dll
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.exe
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.deps.json
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runtimeconfig.json
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runtimeconfig.dev.json
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.dll
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 5\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.genruntimeconfig.cache

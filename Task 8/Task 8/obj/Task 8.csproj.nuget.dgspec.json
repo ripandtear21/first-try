@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 5\\ConsoleApp26\\ConsoleApp26.csproj": {}
+    "C:\\Users\\norma\\source\\repos\\Task 8\\Task 8\\Task 8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 5\\ConsoleApp26\\ConsoleApp26.csproj": {
+    "C:\\Users\\norma\\source\\repos\\Task 8\\Task 8\\Task 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 5\\ConsoleApp26\\ConsoleApp26.csproj",
-        "projectName": "ConsoleApp26",
-        "projectPath": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 5\\ConsoleApp26\\ConsoleApp26.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\source\\repos\\Task 8\\Task 8\\Task 8.csproj",
+        "projectName": "Task 8",
+        "projectPath": "C:\\Users\\norma\\source\\repos\\Task 8\\Task 8\\Task 8.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 5\\ConsoleApp26\\obj\\",
+        "outputPath": "C:\\Users\\norma\\source\\repos\\Task 8\\Task 8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",

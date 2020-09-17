@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj": {}
+    "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 3\\ConsoleApp35\\ConsoleApp35.csproj": {}
   },
   "projects": {
-    "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj": {
+    "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 3\\ConsoleApp35\\ConsoleApp35.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 3\\ConsoleApp35\\ConsoleApp35.csproj",
         "projectName": "ConsoleApp35",
-        "projectPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
+        "projectPath": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 3\\ConsoleApp35\\ConsoleApp35.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\obj\\",
+        "outputPath": "C:\\Users\\norma\\Desktop\\giter\\first-try\\Task 3\\ConsoleApp35\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",

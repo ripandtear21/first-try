@@ -11,3 +11,16 @@ C:\Users\norma\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\netcoreapp3.1\Co
 C:\Users\norma\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.dll
 C:\Users\norma\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.pdb
 C:\Users\norma\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.genruntimeconfig.cache
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.exe
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.deps.json
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.runtimeconfig.json
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.runtimeconfig.dev.json
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.dll
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\bin\Debug\netcoreapp3.1\ConsoleApp35.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.csprojAssemblyReference.cache
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.AssemblyInfoInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.AssemblyInfo.cs
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.dll
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 7\ConsoleApp35\obj\Debug\netcoreapp3.1\ConsoleApp35.genruntimeconfig.cache

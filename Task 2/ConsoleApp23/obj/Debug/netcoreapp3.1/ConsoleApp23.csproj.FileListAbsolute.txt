@@ -11,3 +11,16 @@ C:\Users\norma\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\netcoreapp3.1\Co
 C:\Users\norma\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.dll
 C:\Users\norma\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.pdb
 C:\Users\norma\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.genruntimeconfig.cache
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.exe
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.deps.json
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.runtimeconfig.json
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.runtimeconfig.dev.json
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.dll
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.csprojAssemblyReference.cache
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.AssemblyInfoInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.AssemblyInfo.cs
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.dll
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 2\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.genruntimeconfig.cache

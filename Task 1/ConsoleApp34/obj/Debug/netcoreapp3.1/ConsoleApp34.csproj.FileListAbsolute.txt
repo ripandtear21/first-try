@@ -11,3 +11,16 @@ C:\Users\norma\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\Co
 C:\Users\norma\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.dll
 C:\Users\norma\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.pdb
 C:\Users\norma\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.genruntimeconfig.cache
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.AssemblyInfoInputs.cache
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.AssemblyInfo.cs
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.dll
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.exe
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.deps.json
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.runtimeconfig.json
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.runtimeconfig.dev.json
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.dll
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.pdb
+C:\Users\norma\Desktop\giter\first-try\Task 1\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj": {}
+    "C:\\Users\\norma\\source\\repos\\ConsoleApp23\\ConsoleApp23\\ConsoleApp23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj": {
+    "C:\\Users\\norma\\source\\repos\\ConsoleApp23\\ConsoleApp23\\ConsoleApp23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
-        "projectName": "ConsoleApp35",
-        "projectPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\source\\repos\\ConsoleApp23\\ConsoleApp23\\ConsoleApp23.csproj",
+        "projectName": "ConsoleApp23",
+        "projectPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp23\\ConsoleApp23\\ConsoleApp23.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp35\\ConsoleApp35\\obj\\",
+        "outputPath": "C:\\Users\\norma\\source\\repos\\ConsoleApp23\\ConsoleApp23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
